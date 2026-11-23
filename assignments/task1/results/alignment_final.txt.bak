@@ -1,0 +1,19 @@
+2-D Similarity Alignment
+========================
+
+Scale: 0.692632476920
+
+Rotation:
+[[ 0.909233207616 -0.416287129477]
+ [ 0.416287129477  0.909233207616]]
+
+Translation:
+[ 8.918271807077 15.864498606031]
+
+Raw mean error: 39.388131 m
+Raw RMSE: 49.878561 m
+Raw maximum error: 101.057264 m
+
+Aligned mean error: 5.162551 m
+Aligned RMSE: 6.393579 m
+Aligned maximum error: 18.199393 m
